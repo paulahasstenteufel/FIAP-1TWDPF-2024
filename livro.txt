@@ -9,7 +9,20 @@ Nulla neque quam, tincidunt efficitur leo vitae, eleifend pharetra arcu. Nam a v
 
 
 O quiosque pegou fogo.
-Mas os bombeiros apagaram.
+
+
+“Os humanos raramente veem suas próprias ações como injustificadas.”
+
+Sei o que o descontentamento, o trabalho mal pago e as rebeliões trazem. A atenção do Senhor Soberano e a ira do Ministério de Aço podem ser bem mais terríveis do que algumas chibatadas. Homens como você pregam mudança, mas me pergunto: essa é uma batalha que realmente podemos lutar?
+
+Tramas por trás de tramas, planos além de planos. Sempre havia outro segredo
+
+
+
+
+
 func sumIntegers(int: Int, int2: Int) {
 	return int + int2
 }
+
+≽^-˕-^≼ ≽^-˕-^≼ ≽^-˕-^≼ 
