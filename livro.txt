@@ -2,14 +2,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus auctor maur
 
 Uma nova linha aqui.
 
-O quiosque pegou fogo.
-Mas os bombeiros apagaram.
-
 In hac habitasse platea dictumst. Nunc nunc ipsum, feugiat ac diam at, efficitur maximus felis. Morbi a arcu non magna fringilla cursus. Integer blandit odio a tempus cursus. Nulla non vehicula libero porta. Proin tincidunt sapien eget elementum pellentesque. Quisque eu semper odio. In rutrum tellus ut sodales fringilla. Sed eu accumsan est, ut vehicula purus. 
 
-func sumIntegers(int: Int, int2: Int) {
-	return int + int2
-}
 
 Linha final.
 
