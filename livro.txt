@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is the first item's accordion body. It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.
 Accordion Item #2
 Accordion Item #3
@@ -117,3 +118,39 @@ Links
 Home
 Docs
 Examples
+=======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus auctor mauris et rutrum. Ut scelerisque erat nec eros feugiat iaculis at ut ligula. In ullamcorper venenatis quam, vitae egestas turpis semper dignissim. Vivamus sed dignissim est. 
+
+Duis urna ligula, pharetra a ex vel, ultricies auctor ligula. Integer consequat a quam quis facilisis. Vestibulum at elementum ipsum. Mauris viverra malesuada sem, sit amet venenatis odio.
+
+
+In hac habitasse platea dictumst. Nunc nunc ipsum, feugiat ac diam at, efficitur maximus felis. Morbi a arcu non magna fringilla cursus. Integer blandit odio a tempus cursus. 
+
+Nulla neque quam, tincidunt efficitur leo vitae, eleifend pharetra arcu. Nam a velit est. Aenean sit amet lacus ac mauris volutpat eleifend quis in erat. 
+
+
+O quiosque pegou fogo.
+
+
+“Os humanos raramente veem suas próprias ações como injustificadas.”
+
+Sei o que o descontentamento, o trabalho mal pago e as rebeliões trazem. A atenção do Senhor Soberano e a ira do Ministério de Aço podem ser bem mais terríveis do que algumas chibatadas. Homens como você pregam mudança, mas me pergunto: essa é uma batalha que realmente podemos lutar?
+
+Tramas por trás de tramas, planos além de planos. Sempre havia outro segredo
+
+
+
+
+
+func sumIntegers(int: Int, int2: Int) {
+	return int + int2
+}
+
+Linha final.
+
+awjkenjkwadnvkjn
+
+ahjdbliwbdvibsdlvihsdlhvbsld
+
+jdfk.dbkjsbDVKJb
+>>>>>>> 0848e7afb4783dc3d7b1935b7288e5eb5993dc3e
