@@ -1,14 +1,16 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus auctor mauris et rutrum. Ut scelerisque erat nec eros feugiat iaculis at ut ligula. In ullamcorper venenatis quam, vitae egestas turpis semper dignissim. Vivamus sed dignissim est. Pellentesque in libero interdum, laoreet dui non, tincidunt mauris. Etiam vel convallis sem, eget posuere lacus. In eu dapibus enim. Praesent mollis lacus vel sollicitudin interdum. Nullam congue eget lectus et ullamcorper. Etiam urna neque, venenatis gravida purus non, varius gravida sem. Duis urna ligula, pharetra a ex vel, ultricies auctor ligula. Integer consequat a quam quis facilisis. Vestibulum at elementum ipsum. Mauris viverra malesuada sem, sit amet venenatis odio.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus auctor mauris et rutrum. Ut scelerisque erat nec eros feugiat iaculis at ut ligula. In ullamcorper venenatis quam, vitae egestas turpis semper dignissim. Vivamus sed dignissim est. Nulla bibendum ante vitae lectus accumsan, quis tristique purus.  Pellentesque in libero interdum, laoreet dui non, tincidunt mauris. Etiam vel convallis sem, eget posuere lacus. In eu dapibus enim. Praesent mollis lacus vel sollicitudin interdum. Nullam congue eget lectus et ullamcorper. Etiam urna neque, venenatis gravida purus non, varius gravida sem. Duis urna ligula, pharetra a ex vel, ultricies auctor ligula. Integer consequat a quam quis facilisis. Vestibulum at elementum ipsum. Mauris viverra malesuada sem, sit amet venenatis odio.
 
-linkedin/in/hasstenteufel
+Uma nova linha aqui.
 
 O quiosque pegou fogo.
 Mas os bombeiros apagaram.
-In hac habitasse platea dictumst. Nunc nunc ipsum, feugiat ac diam at, efficitur maximus felis. Morbi a arcu non magna fringilla cursus. Integer blandit odio a tempus cursus. Nulla neque quam, tincidunt efficitur leo vitae, eleifend pharetra arcu. Nam a velit est. Aenean sit amet lacus ac mauris volutpat eleifend quis in erat. Nullam pellentesque ex id orci vestibulum, non vehicula libero porta. Proin tincidunt sapien eget elementum pellentesque. Quisque eu semper odio. In rutrum tellus ut sodales fringilla. Sed eu accumsan est, ut vehicula purus. Nulla bibendum ante vitae lectus accumsan, quis tristique purus. 
+
+In hac habitasse platea dictumst. Nunc nunc ipsum, feugiat ac diam at, efficitur maximus felis. Morbi a arcu non magna fringilla cursus. Integer blandit odio a tempus cursus. Nulla non vehicula libero porta. Proin tincidunt sapien eget elementum pellentesque. Quisque eu semper odio. In rutrum tellus ut sodales fringilla. Sed eu accumsan est, ut vehicula purus. 
 
 func sumIntegers(int: Int, int2: Int) {
 	return int + int2
 }
+
 _________________11888888111
 ____________1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶81
 __________8¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶8
@@ -60,3 +62,7 @@ _8¶¶¶¶1______________111111888¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶¶¶¶¶¶¶¶¶¶¶¶¶88111_________18¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+
+
+
+
